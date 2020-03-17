@@ -1,0 +1,11 @@
+{
+  "name": "moscow-test-nodejs",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
